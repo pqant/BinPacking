@@ -1,4 +1,4 @@
 # BinPacking
-Solving simple bin packing problem using OptaPlanner and Drools.
+Solving simple bin packing problem 
 
 Unzip the `BinPacking.zip` file for the one page site detailed explanation.
